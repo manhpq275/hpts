@@ -1,0 +1,1 @@
+﻿INSERT INTO `hpts`.`Users` (`ID`, `Name`, `Address`, `Lat`, `Long`, `PhoneNumber`, `Birthday`, `Avatar`, `ID_Jobs`, `Partner`, `ActivePartner`) VALUES (NULL, 'PHẠM QUANG MẠNH', 'CHUNG CƯ THANH HÀ - HÀ ĐÔNG', '100.25', '12.235', '0987327997', '1989-05-27', '', '', '0', '0');
